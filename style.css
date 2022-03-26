@@ -1,0 +1,20 @@
+body
+{
+    background-color: black;
+}
+
+h1
+{
+    color: yellow;
+}
+
+p
+{
+    color: lawngreen;
+    font-size: 23px;
+}   
+
+#skech_to_be_drawn
+{
+    color: red ;
+}
